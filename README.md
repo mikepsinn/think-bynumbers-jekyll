@@ -1,1 +1,2 @@
-# think-bynumbers-jekyll
+# think-by-numbers-jekyll
+
