@@ -1,6 +1,5 @@
 ---
 name: Think by Numbers
-description: A better world through data.
 title: Think by Numbers
 timezone: UTC
 collections:
@@ -26,7 +25,7 @@ locale: en-US
 description: Creating a better world through data.
 baseurl: ''
 url: https://thinkbynumbers.org
-logo: "/images/crowdsourcing-utopia-icon-1024-1024.png"
+logo: "/wp-content/uploads/Graphics/Logos/Crap/Think-By-Numbers-Masthead-Logo-960x125.gif"
 date_format: "%B %-d, %Y"
 read_time: false
 words_per_minute: 
