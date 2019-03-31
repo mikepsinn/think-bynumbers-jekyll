@@ -108,6 +108,11 @@
 }
 
 .site-logo-img {
+  max-width: 90%;
+}
+
+/* 
+.site-logo-img {
   width: $site-logo-width;
   height: $site-logo-height;
   border: 5px solid $background-color;
@@ -124,7 +129,8 @@
     height: 2 * $site-logo-height;
     border-radius: 2 * $site-logo-width;
   }
-}
+} 
+*/
 
 .site-footer {
   @include clearfix();

@@ -10,14 +10,11 @@ categories:
   - Health
   - Mental Illness
 ---
-People who develop
-  dementia spend an average of <a target="_blank" rel="noopener"
+People who develop dementia spend an average of <a target="_blank" rel="noopener"
     href="https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html">17</a> percent of their sleep time
-  in <span></span></span><a href="https://www.livescience.com/59300-brain-cells-linked-to-dreaming-found.html"
-  target="_top">, compared with <a
-    target="_blank" rel="noopener"
+  in the Rapid Eye Movement (REM) stage<a href="https://www.livescience.com/59300-brain-cells-linked-to-dreaming-found.html"
+  target="_top">, compared with <a target="_blank" rel="noopener"
     href="https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html">20</a> percent for those who did not
-  develop dementia. Researchers found that for every 1% reduction in REM sleep, there was a 9%
-  increase in risk of dementia.
+  develop dementia. Researchers found that for every 1% reduction in REM sleep, there was a 9% increase in risk of dementia.
 
 Do you know how to increase REM sleep? I'm already crazy enough, so please let me know in the comments below!
