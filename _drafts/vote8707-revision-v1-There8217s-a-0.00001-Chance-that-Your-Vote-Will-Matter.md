@@ -1,0 +1,42 @@
+---
+id: 8989
+title: 'There&#8217;s a 0.00001% Chance that Your Vote Will Matter'
+date: 2016-10-27T21:55:13+00:00
+author: Mike P. Sinn
+excerpt: "There's less than a 0.00001% chance that your vote will be the tiebreaker that decides the outcome of a national elections.You are more likely to be injured in a car accident driving to the polls (0.002% chance).  Hence, if you are trying to make a practical improvement in your life and those of your loved ones, it is much more rational to just stay home on election day."
+layout: revision
+guid: http://thinkbynumbers.org/government-spending/8707-revision-v1/
+permalink: /government-spending/8707-revision-v1/
+---
+# Q: Should I vote?
+
+## Self-Interested Answer: No, you might die.
+
+<div>
+  There&#8217;s less than a <a href="https://www.quora.com/What-are-the-odds-that-my-vote-changes-the-outcome-of-an-election">0.00001% chance</a> that your vote will be the tiebreaker that decides the outcome of a national election.  You are more likely to be injured in a car accident driving to the polls (<a href="https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811552">0.002% chance</a>).  Hence, if you are trying to make a practical improvement in your life and those of your loved ones, it is much more rational to just stay home on election day.
+</div>
+
+<div>
+  <h2>
+    Civic-Minded Answer: Yes, if you&#8217;re more informed on the issues and candidates than the average voter.
+  </h2>
+  
+  <div>
+    If you have a relatively informed opinion on the ability of the candidates to reduce suffering in the world, you should exercise your irrational desire to vote. At least then you can say that you&#8217;re part of the solution.
+  </div>
+  
+  <div>
+  </div>
+  
+  <div>
+    But if you do this, you should vote based on your civic duty to express your opinion about who would be the best person for the job regardless of party or ballot status. &#8220;Pragmatically&#8221; voting for the lesser of two evils only serves to validate evil in what is effectively just a public opinion poll.
+  </div>
+</div>
+
+&nbsp;
+
+<span class="embed-youtube" style="text-align:center; display: block;"></span>
+
+&nbsp;
+
+<span class="embed-youtube" style="text-align:center; display: block;"></span>
