@@ -59,37 +59,8 @@ categories:
   - Financial Sector
   - GDP
 tags:
-  - $2 trillion
-  - aig
-  - auction
-  - banks
-  - billion
-  - cost
-  - crisis
-  - economic crisis
-  - economy
-  - election
-  - feds
-  - financial contribution
-  - financial industry gdp
-  - financial institution
   - financial sector
-  - gdp share
-  - goldman-sachs
-  - government
-  - industry
-  - lobby
   - lobbying
-  - merril-lynch
-  - paper shuffling
-  - political investment
-  - sector
-  - trillion
-  - u.s.
-  - united states
-  - wall st
-  - wall street
-  - where your tax dollars are going
 ---
 <div class="powerpress_player" id="powerpress_player_232">
 </div>
