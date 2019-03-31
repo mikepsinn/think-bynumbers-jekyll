@@ -12,7 +12,7 @@ image: /wp-content/uploads/2013/02/Duffman2-672x1289.jpg
 categories:
   - Monkey Business
 ---
-In response to recent allegations that Anheuser-Busch has been watering down its beer to boost profits, my lab used gas chromatography with flame ion detection to determine if this was indeed the case. Our analyses suggest with greater than 99% certainty that Budweiser is, and shall remain, the king of beers. Beer lovers around the world can continue to drink soundly with the knowledge that their euphoria and elevated levels of self-confidence are in no way psychosomatically induced.  Based on our findings, I am confident in saying that Budweiser will continue to be the cause of (and solution to) all of life&#8217;s little problems.
+In response to recent allegations that Anheuser-Busch has been watering down its beer to boost profits, my lab used gas chromatography with flame ion detection to determine if this was indeed the case. Our analyses suggest with greater than 99% certainty that Budweiser is, and shall remain, the king of beers. Beer lovers around the world can continue to drink soundly with the knowledge that their euphoria and elevated levels of self-confidence are in no way psychosomatically induced.  Based on our findings, I am confident in saying that Budweiser will continue to be the cause of (and solution to) all of life's little problems.
 
 
 

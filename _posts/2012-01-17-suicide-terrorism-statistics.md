@@ -1,6 +1,6 @@
 ---
 id: 992
-title: 'What Really Causes Terrorism? It&#8217;s Not Your Freedom.'
+title: 'What Really Causes Terrorism? It's Not Your Freedom.'
 date: 2012-01-17T05:56:07+00:00
 author: Mike P. Sinn
 excerpt: '95% of suicide terrorist attacks are targeted at occupying foreign militaries.  0% of suicide terrorist attacks have been directed at countries not militarily involved in geopolitical disputes.'
@@ -86,9 +86,9 @@ Nonspuriousness (spuriousness- not genuine): “The third and final condition fo
   The desired end as defined by the Bush administration would be the elimination of terrorism. They attempted to achieve this using the means of military invasion and occupation. The above graph suggests that the means used did not achieve the desired end. In fact, the means produce the opposite of the desired ends.
 </p>
 
-## The Public Believes that the Government Has Effectively Reduced Terrorist Capabilities But It Doesn&#8217;t Believe that Terrorist Capabilities Have Been Reduced
+## The Public Believes that the Government Has Effectively Reduced Terrorist Capabilities But It Doesn't Believe that Terrorist Capabilities Have Been Reduced
 
-According to [Pew polling](http://www.people-press.org/2009/02/18/obama-faces-familiar-divisions-over-anti-terror-policies/), a majority of the public (61%) believes that the ability of terrorists to launch a major attack is about the same (44%) or greater than (17%) it was at the time of the 9/11 attacks. So the public doesn&#8217;t think the hundreds of billions spent on the War on Terror are producing any reduction in capabilities.  Yet, somehow the  the majority of the public (71%) continues to say the government has done very (22%) or fairly well (49%) in reducing the threat of terrorism.  It&#8217;s hard to understand how one can think the government is doing a good job at reducing the threat of terrorism when one believes that it hasn&#8217;t been reduced.
+According to [Pew polling](http://www.people-press.org/2009/02/18/obama-faces-familiar-divisions-over-anti-terror-policies/), a majority of the public (61%) believes that the ability of terrorists to launch a major attack is about the same (44%) or greater than (17%) it was at the time of the 9/11 attacks. So the public doesn't think the hundreds of billions spent on the War on Terror are producing any reduction in capabilities.  Yet, somehow the  the majority of the public (71%) continues to say the government has done very (22%) or fairly well (49%) in reducing the threat of terrorism.  It's hard to understand how one can think the government is doing a good job at reducing the threat of terrorism when one believes that it hasn't been reduced.
 
 <p style="text-align: center;">
   <img class="aligncenter" title="Views of Terrorists' Capabilities Unchanged" src="http://www.people-press.org/people-press/files/legacy/493-5.gif" alt="Table Showing Views of Terrorists' Capabilities Unchanged (2002-2009)" width="438" height="162" />
@@ -96,7 +96,7 @@ According to [Pew polling](http://www.people-press.org/2009/02/18/obama-faces-fa
 
 ## How to Reduce the Terrorist Threat
 
-The data clearly indicate that increasing the degree of US military occupation in majority-Islamic countries, will only serve to increase the threat of terrorism.  I&#8217;d never accuse the American public of being quick, but they do seem to learn over time.  Half of Americans (50%) now believe that decreasing the U.S. military presence overseas would be the more effective policy, while just 31% say an increased presence would be more effective.
+The data clearly indicate that increasing the degree of US military occupation in majority-Islamic countries, will only serve to increase the threat of terrorism.  I'd never accuse the American public of being quick, but they do seem to learn over time.  Half of Americans (50%) now believe that decreasing the U.S. military presence overseas would be the more effective policy, while just 31% say an increased presence would be more effective.
 
 <p style="text-align: center;">
   <img class="aligncenter" title="Plurality Sees U.S. Troop Cutbacks Reducing Threat of Terrorism" src="http://www.people-press.org/people-press/files/legacy/493-7.gif" alt="Views on Whether US Should Cutback on Troops to Reduce Threat of Terrorism (2002-2009)" width="291" height="186" />

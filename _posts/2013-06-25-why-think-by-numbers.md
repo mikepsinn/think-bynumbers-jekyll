@@ -60,18 +60,18 @@ You have a total of three brains: the reptilian brain, the paleo-mammalian brain
 
 _Diagram Source: <a href="http://www.ascd.org/publications/books/101269/chapters/A-Walk-Through-the-Brain.aspx" target="_blank">http://www.ascd.org/publications/books/101269/chapters/A-Walk-Through-the-Brain.aspx</a>_
 
-  * **Brain 1: The Lizard &#8211; **The reptilian part of us, the **brain stem**, deals with the basic survival, instinctive, and reproductive functions.  These functions are otherwise known as the four F&#8217;s: 
+  * **Brain 1: The Lizard &#8211; **The reptilian part of us, the **brain stem**, deals with the basic survival, instinctive, and reproductive functions.  These functions are otherwise known as the four F's: 
       * fight
       * flight
       * feeding
       * intercourse
 
-That’s all that crocodiles really do with their tiny, pea-sized brains.  This republican, I mean reptilian brain is “rigid, obsessive, compulsive, ritualistic and paranoid”. It is prone to repetitive, programmed behaviors and is incapable of learning from mistakes.  The reptile brain&#8217;s only saving grace is that it is responsible for all core tasks required for self-preservation.
+That’s all that crocodiles really do with their tiny, pea-sized brains.  This republican, I mean reptilian brain is “rigid, obsessive, compulsive, ritualistic and paranoid”. It is prone to repetitive, programmed behaviors and is incapable of learning from mistakes.  The reptile brain's only saving grace is that it is responsible for all core tasks required for self-preservation.
 
   * **Brain 2: The Dog**** **– The second evolutionary stratum consists of the ancient paleo-mammalian **limbic system**. The limbic system adds feelings to instincts.  It morally classifies everything as either “good or bad”. The value in this portion of the brain is that it can generates more nuanced, varied and flexible behaviors than can the basic brain stem.
-  * **Brain 3: Mr. Spock** – The characteristically human layer is the **neocortex**. This is the realm of reason and logic. It is this part of our brains that has given mankind the great gifts of philosophy, mathematics, science, and man&#8217;s crowning achievement, the Snuggie™.
+  * **Brain 3: Mr. Spock** – The characteristically human layer is the **neocortex**. This is the realm of reason and logic. It is this part of our brains that has given mankind the great gifts of philosophy, mathematics, science, and man's crowning achievement, the Snuggie™.
 
-So within our craniums, we have an ongoing battle between the vicious, impulsive lizard, the slobbering dog digging a hole in your couch to china for no reason, and Mr. Spock struggling to determine the fate of our planet. Wouldn&#8217;t it be best to leave this job solely to Spock?
+So within our craniums, we have an ongoing battle between the vicious, impulsive lizard, the slobbering dog digging a hole in your couch to china for no reason, and Mr. Spock struggling to determine the fate of our planet. Wouldn't it be best to leave this job solely to Spock?
 
 <div>
   <dl id="attachment_550">
@@ -87,11 +87,11 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
 
 <div>
   <h3>
-    Why Our Brains Don&#8217;t Work Rite
+    Why Our Brains Don't Work Rite
   </h3>
   
   <p>
-    So, we&#8217;ve got this top of the line neocortex which is perfectly capable of rational thought.  Why then, do we behave so irrationally as a species?  The problem is that the rational neocortex is enslaved by the lower brains.  It is not free to examine all available information in it&#8217;s quest to attain objective truth.  Instead, it frequently becomes a kind of a slimy neuro-lawyer defending and rationalizing the preconceived notions of our emotional limbic systems. Let&#8217;s break down the processing of new infomation:
+    So, we've got this top of the line neocortex which is perfectly capable of rational thought.  Why then, do we behave so irrationally as a species?  The problem is that the rational neocortex is enslaved by the lower brains.  It is not free to examine all available information in it's quest to attain objective truth.  Instead, it frequently becomes a kind of a slimy neuro-lawyer defending and rationalizing the preconceived notions of our emotional limbic systems. Let's break down the processing of new infomation:
   </p>
   
   <ol>
@@ -137,11 +137,11 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </p>
   
   <p>
-    The human brain has been around for about <a href="http://www.compassionheart.com/evolutionofthebrain.html">200,000</a> years.  The Stone Age only ended about <a href="http://web.archive.org/web/20120616145636/http://www.valdostamuseum.org:80/hamsmith/iceciv.html">6,000</a> years ago.  So, ninety-nine percent of our ancestors lived in environments characterized by starvation and a general scarcity of resources. Evolution crawls at a snail&#8217;s pace, so we still have these caveman brains optimized for an environment millennia away from our own. So our wants, dreams, personalities, and desires have not changed much in 200,000 years.
+    The human brain has been around for about <a href="http://www.compassionheart.com/evolutionofthebrain.html">200,000</a> years.  The Stone Age only ended about <a href="http://web.archive.org/web/20120616145636/http://www.valdostamuseum.org:80/hamsmith/iceciv.html">6,000</a> years ago.  So, ninety-nine percent of our ancestors lived in environments characterized by starvation and a general scarcity of resources. Evolution crawls at a snail's pace, so we still have these caveman brains optimized for an environment millennia away from our own. So our wants, dreams, personalities, and desires have not changed much in 200,000 years.
   </p>
   
   <p>
-    So, like, what were cavemen into?  Surviving long enough to successfully replicate one&#8217;s genes in an unstable environment requires brains with very specific interests.  Hence, the type of brain that survived to reproductive age typically paid a great deal of attention to these questions:
+    So, like, what were cavemen into?  Surviving long enough to successfully replicate one's genes in an unstable environment requires brains with very specific interests.  Hence, the type of brain that survived to reproductive age typically paid a great deal of attention to these questions:
   </p>
   
   <ul>
@@ -176,7 +176,7 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </ul>
   
   <p>
-    An interest in these topics was pretty much worthless to primitive humans struggling to survive in ancient Africa.  This is especially true since math and written language didn&#8217;t even exist at the time.  Conventional evolutionary theory states that traits that offer no survival or reproductive advantage will not persist in a species. Hence, these subjects are as fascinating to us as Al Gore recounting a riveting experience of watching paint dry.
+    An interest in these topics was pretty much worthless to primitive humans struggling to survive in ancient Africa.  This is especially true since math and written language didn't even exist at the time.  Conventional evolutionary theory states that traits that offer no survival or reproductive advantage will not persist in a species. Hence, these subjects are as fascinating to us as Al Gore recounting a riveting experience of watching paint dry.
   </p>
   
   <p>
@@ -184,7 +184,7 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </p>
   
   <h3>
-    Let&#8217;s Get Ignorant!
+    Let's Get Ignorant!
   </h3>
   
   <p>
@@ -192,15 +192,15 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </p>
   
   <p>
-    A general disinterest in economics and statistics wouldn&#8217;t be a big deal if we lived in a dictatorship.  However, in our political system, government action is to some degree a product of public opinion.  Thomas Jefferson once said, &#8220;An informed citizenry is the bulwark of a democracy.&#8221;  Based on this quote, I think it&#8217;s safe to say that our democracy is currently bulwark-free.  The fact that I don&#8217;t know what a bulwark is further proves that we do not have an informed citizenry.
+    A general disinterest in economics and statistics wouldn't be a big deal if we lived in a dictatorship.  However, in our political system, government action is to some degree a product of public opinion.  Thomas Jefferson once said, &#8220;An informed citizenry is the bulwark of a democracy.&#8221;  Based on this quote, I think it's safe to say that our democracy is currently bulwark-free.  The fact that I don't know what a bulwark is further proves that we do not have an informed citizenry.
   </p>
   
   <p>
-    The only way to understand the important details of complex and large-scale societal issues is through the use of statistics and economics. Additionally, formal cost-benefit analysis is the only way to make optimal decisions on these complicated issues.  Unfortunately, most of us don&#8217;t even know what a cost-benefit analysis is, let alone have a firm grasp of the statistical and economic data needed to perform such analyses.
+    The only way to understand the important details of complex and large-scale societal issues is through the use of statistics and economics. Additionally, formal cost-benefit analysis is the only way to make optimal decisions on these complicated issues.  Unfortunately, most of us don't even know what a cost-benefit analysis is, let alone have a firm grasp of the statistical and economic data needed to perform such analyses.
   </p>
   
   <p>
-    Here&#8217;s a list of <strong>what the average voter (such as myself) doesn&#8217;t know:</strong>
+    Here's a list of <strong>what the average voter (such as myself) doesn't know:</strong>
   </p>
   
   <ul>
@@ -311,12 +311,12 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
       <strong>KNOWLEDGE</strong> &#8211; An immense level of knowledge over a wide range of issues (economics, history, science, etc.) is necessary to identify and properly execute optimal public policies.  This could be evaluated through standardized testing of the candidates.
     </li>
     <li>
-      <strong>RECORD</strong> &#8211; The candidate&#8217;s record proves whether or not they <em>actually</em> support policies that better the general welfare of the citizenry.  It also indicates whether or not the candidate possesses the integrity necessary to resist the influence of special interests.   These are small but powerful groups who would impose their own selfish policies at the expense of the greater society.
+      <strong>RECORD</strong> &#8211; The candidate's record proves whether or not they <em>actually</em> support policies that better the general welfare of the citizenry.  It also indicates whether or not the candidate possesses the integrity necessary to resist the influence of special interests.   These are small but powerful groups who would impose their own selfish policies at the expense of the greater society.
     </li>
   </ul>
   
   <p>
-    Unfortunately, I and most other voters have an informational vacuum between our ears with regard to this data for most candidates. Hence, our neocortices are unable to perform a rational calculation. This leaves the decision up to our stupid brain stems and emotional limbic systems. These portions of our brains can&#8217;t follow arguments of any complexity. They stuff themselves with slogans and advertisements. They eschew fact for myth. They operate on biases and stereotypes. They privilege feeling over thinking. The result is a political system of daunting irrationality.
+    Unfortunately, I and most other voters have an informational vacuum between our ears with regard to this data for most candidates. Hence, our neocortices are unable to perform a rational calculation. This leaves the decision up to our stupid brain stems and emotional limbic systems. These portions of our brains can't follow arguments of any complexity. They stuff themselves with slogans and advertisements. They eschew fact for myth. They operate on biases and stereotypes. They privilege feeling over thinking. The result is a political system of daunting irrationality.
   </p>
   
   <p>
@@ -328,16 +328,16 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
       <strong>LOOKS &#8211;</strong><strong> </strong><a href="http://medicalxpress.com/news/2007-10-election-outcomes-snap-judgments-sufficient.html">70%</a> of elections are won by the candidate with the prettiest face. Another <a href="http://pcl.stanford.edu/research/2008/bailenson-facial-similarity.pdf">study</a> illustrates voter preference for candidates that possess facial features similar to their own.
     </li>
     <li>
-      <strong>LOVELIFE</strong><strong> </strong>&#8211; Although infidelity may say something about a politician&#8217;s character, it has no direct impact of the lives of the voters.  My theory is that throughout evolutionary history, man tended to live in small groups.  Hence, the chosen leader was likely to come into direct contact with the voter&#8217;s spouse.  Powerful individuals tend to elicit a greater ability to seduce spouses.  Therefore, prehistoric voters who chose faithful leaders were less likely to have their spouse impregnated by this leader.  This would leave their spouse’s womb available for their own progeny.  Ultimately, their characteristic appreciation of fidelity would be passed to their offspring.
+      <strong>LOVELIFE</strong><strong> </strong>&#8211; Although infidelity may say something about a politician's character, it has no direct impact of the lives of the voters.  My theory is that throughout evolutionary history, man tended to live in small groups.  Hence, the chosen leader was likely to come into direct contact with the voter's spouse.  Powerful individuals tend to elicit a greater ability to seduce spouses.  Therefore, prehistoric voters who chose faithful leaders were less likely to have their spouse impregnated by this leader.  This would leave their spouse’s womb available for their own progeny.  Ultimately, their characteristic appreciation of fidelity would be passed to their offspring.
     </li>
     <li>
-      <strong>ELECTABILITY &#8211;</strong><strong> </strong>Many people choose not to vote for a third party or independent candidate that they prefer because they&#8217;re unlikely to win. Their reasoning is that they would be throwing away their chance to help elect the lesser of two evils. A survey of college students shows that 79 percent of the students &#8220;felt that their vote makes a difference.&#8221; In reality, there is only <a href="https://mises.org/library/why-vote">a one in 60 million</a> chance of a randomly selected voter affecting the presidential election.  It much more likely that that voter will die in a car accident (1 in 1 million) driving to the polls.  Hence, it&#8217;s irrational to believe that your vote is any more than a one data point in an opinion poll.
+      <strong>ELECTABILITY &#8211;</strong><strong> </strong>Many people choose not to vote for a third party or independent candidate that they prefer because they're unlikely to win. Their reasoning is that they would be throwing away their chance to help elect the lesser of two evils. A survey of college students shows that 79 percent of the students &#8220;felt that their vote makes a difference.&#8221; In reality, there is only <a href="https://mises.org/library/why-vote">a one in 60 million</a> chance of a randomly selected voter affecting the presidential election.  It much more likely that that voter will die in a car accident (1 in 1 million) driving to the polls.  Hence, it's irrational to believe that your vote is any more than a one data point in an opinion poll.
     </li>
     <li>
-      <strong>TRIBAL LOYALTY </strong>&#8211; Blind loyalty to political parties often distorts decision-making.  Many would claim that their loyalty to a party&#8217;s candidate is a result of their agreement with that candidate&#8217;s policies. However, for a lot of partisans, the causality is reversed.   Often individuals will modify their support for policies to achieve agreement with their candidate of the party to which they are loyal. For instance, upon the election of Barack Obama, a lot of republicans suddenly started complaining about the nation’s budget deficit. The odd thing is that, when <a href="https://en.wikipedia.org/wiki/George_W._Bush" target="_blank">George W. Bush</a> was president, these same republicans were generally silent on the issue, despite the fact that Mr. Bush ran up <a href="http://mediamatters.org/research/2011/08/25/right-wing-media-ignore-bush-effect-on-debt-to/183598">$4 trillion</a> in debt. At the same time, many democrats suddenly stopped complaining about the wars in Iraq or Afghanistan upon Obama&#8217;s election.  It&#8217;s still unclear how having a democrat for a commander in chief can suddenly make a war morally justifiable.
+      <strong>TRIBAL LOYALTY </strong>&#8211; Blind loyalty to political parties often distorts decision-making.  Many would claim that their loyalty to a party's candidate is a result of their agreement with that candidate's policies. However, for a lot of partisans, the causality is reversed.   Often individuals will modify their support for policies to achieve agreement with their candidate of the party to which they are loyal. For instance, upon the election of Barack Obama, a lot of republicans suddenly started complaining about the nation’s budget deficit. The odd thing is that, when <a href="https://en.wikipedia.org/wiki/George_W._Bush" target="_blank">George W. Bush</a> was president, these same republicans were generally silent on the issue, despite the fact that Mr. Bush ran up <a href="http://mediamatters.org/research/2011/08/25/right-wing-media-ignore-bush-effect-on-debt-to/183598">$4 trillion</a> in debt. At the same time, many democrats suddenly stopped complaining about the wars in Iraq or Afghanistan upon Obama's election.  It's still unclear how having a democrat for a commander in chief can suddenly make a war morally justifiable.
     </li>
     <li>
-      <strong>VOTER&#8217;S MOOD &#8211; </strong>An <a href="http://www.pnas.org/content/107/29/12804.full">experiment </a>indicates that being in a bad mood while voting makes you more likely to vote out incumbents.
+      <strong>VOTER'S MOOD &#8211; </strong>An <a href="http://www.pnas.org/content/107/29/12804.full">experiment </a>indicates that being in a bad mood while voting makes you more likely to vote out incumbents.
     </li>
     <li>
       <strong>FLAGS &#8211; </strong>The mere appearance of the <a href="http://web.archive.org/web/20120128102003/http://www.cornellpsych.org/people/travis/materials/Carter-etal-Flag%202008%20Election.pdf" shape="rect">American flag</a> in a voting booth makes voters more likely to vote Republican.
@@ -345,7 +345,7 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </ul>
   
   <p>
-    We&#8217;re damn lucky that CEO&#8217;s aren&#8217;t elected by popular vote.  If the public got to decide who ran Microsoft, I would be typing this sentence on a typewriter.
+    We're damn lucky that CEO's aren't elected by popular vote.  If the public got to decide who ran Microsoft, I would be typing this sentence on a typewriter.
   </p>
   
   <h2>
@@ -353,11 +353,11 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </h2>
   
   <p>
-    Utopia, a world without disease, starvation, violence, and suffering, is the ultimate goal and destination of society. The thinking, rational mind has the power to make utopia a reality through innovation.  We&#8217;ve had a few hundred thousand years to get there, yet it remains a distant dream. Irrational or uniformed decisions are the primary reason why humanity fails to reach its true potential.
+    Utopia, a world without disease, starvation, violence, and suffering, is the ultimate goal and destination of society. The thinking, rational mind has the power to make utopia a reality through innovation.  We've had a few hundred thousand years to get there, yet it remains a distant dream. Irrational or uniformed decisions are the primary reason why humanity fails to reach its true potential.
   </p>
   
   <p>
-    In a democracy and a free enterprise economy, voters and consumers are the deciders. Our prehistoric brains decide to waste society&#8217;s resources on wars and short-term gratification through erroneous decision-making. They are a drain on the economy, public welfare, the environment, and national security. Resources are misallocated, good ideas are rejected, and bad ideas are accepted. Money is wasted. Life and health are put in jeopardy.
+    In a democracy and a free enterprise economy, voters and consumers are the deciders. Our prehistoric brains decide to waste society's resources on wars and short-term gratification through erroneous decision-making. They are a drain on the economy, public welfare, the environment, and national security. Resources are misallocated, good ideas are rejected, and bad ideas are accepted. Money is wasted. Life and health are put in jeopardy.
   </p>
   
   <p>
@@ -365,11 +365,11 @@ So within our craniums, we have an ongoing battle between the vicious, impulsiv
   </p>
   
   <p>
-    The only way to break the shackles put on our neocortices by its evil stepsisters is through the use of numbers.  When our rational mind has cold, hard statistics to support its arguments, it&#8217;s much more likely to overcome the emotion-based arguments of the primitive brains.  Providing your neocortex with this ammunition is the purpose of this site.  Using numbers we can overthrow this idiocracy and ignite a revolution of reason.  Suffering can be eliminated and utopia can be realized.
+    The only way to break the shackles put on our neocortices by its evil stepsisters is through the use of numbers.  When our rational mind has cold, hard statistics to support its arguments, it's much more likely to overcome the emotion-based arguments of the primitive brains.  Providing your neocortex with this ammunition is the purpose of this site.  Using numbers we can overthrow this idiocracy and ignite a revolution of reason.  Suffering can be eliminated and utopia can be realized.
   </p>
   
   <p>
-    It&#8217;s quite possible, and maybe probable, that I&#8217;m an idiot. I may be wrong about a lot of this stuff.  If so, I would be eternally grateful if you were to straighten me out in the comments section.
+    It's quite possible, and maybe probable, that I'm an idiot. I may be wrong about a lot of this stuff.  If so, I would be eternally grateful if you were to straighten me out in the comments section.
   </p>
   
   <p>

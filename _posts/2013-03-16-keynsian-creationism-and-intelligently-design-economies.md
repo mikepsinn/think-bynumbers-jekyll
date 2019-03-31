@@ -22,7 +22,7 @@ sbg_selected_sidebar_replacement:
 categories:
   - Economics
 ---
-The mythology of effective [Keynesian](https://en.wikipedia.org/wiki/Keynsianism) centralized economic planning is born of the same mother as the mythology of [creationist](https://en.wikipedia.org/wiki/Creationism) intelligent design.  Both of these fantasies arise as a result of the human mind&#8217;s inability to deal with complex systems.
+The mythology of effective [Keynesian](https://en.wikipedia.org/wiki/Keynsianism) centralized economic planning is born of the same mother as the mythology of [creationist](https://en.wikipedia.org/wiki/Creationism) intelligent design.  Both of these fantasies arise as a result of the human mind's inability to deal with complex systems.
 
 Evolution and economics are just two forms of a larger phenomenon called [complex adaptive systems](https://en.wikipedia.org/wiki/Complex_adaptive_system), in which individual elements interact, process information and adapt their behavior to changing conditions. Immune systems, ecosystems, language, the law, and the Internet are other examples of complex adaptive systems.
 

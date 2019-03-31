@@ -121,7 +121,7 @@ A certain level of government spending is necessary to maintain an economy that 
 </div>
 
 <div>
-  Government expenditure on these functions increases a country&#8217;s productivity.
+  Government expenditure on these functions increases a country's productivity.
 </div>
 
 <div>
@@ -136,7 +136,7 @@ A certain level of government spending is necessary to maintain an economy that 
   <em>Graph Source: <a href="http://web.archive.org/web/20121119051324/http://theuklibertarian.com:80/2010/07/12/paul-mckeever-on-why-libertarians-love-economic-arguments/" target="_blank">http://theuklibertarian.com/2010/07/12/paul-mckeever-on-why-libertarians-love-economic-arguments/</a></em>
 </p>
 
-However, when government spending exceeds these mandates, it takes the country&#8217;s human and material resource allocation decision-making power away from society&#8217;s massive collective of individual intelligences. This is a bad idea because individuals are just better at deciding how allocating resources to satisfy their own desires since:
+However, when government spending exceeds these mandates, it takes the country's human and material resource allocation decision-making power away from society's massive collective of individual intelligences. This is a bad idea because individuals are just better at deciding how allocating resources to satisfy their own desires since:
 
 <div>
   <div>
@@ -165,7 +165,7 @@ However, when government spending exceeds these mandates, it takes the country&#
     </ul>
     
     <p>
-      The ability to obtain campaign contributions is primarily dependent on the candidate&#8217;s ability to divert the nation&#8217;s resources to corporations and special interest groups. Hence, resources are not specifically allocated to maximize their productivity, but are allocated in the pursuit of political goals.
+      The ability to obtain campaign contributions is primarily dependent on the candidate's ability to divert the nation's resources to corporations and special interest groups. Hence, resources are not specifically allocated to maximize their productivity, but are allocated in the pursuit of political goals.
     </p>
   </div>
   
@@ -187,7 +187,7 @@ However, when government spending exceeds these mandates, it takes the country&#
     </p>
     
     <p>
-      The graph contains four dots (observations) for each of the twenty-three countries (one for each of the four decades during the period 1960-1999). Each dot represents a country&#8217;s total government spending as a share of GDP at the beginning of the decade and its accompanying growth of real GDP during that decade. As the plotted line in the exhibit shows, there is a clearly observable negative relationship between size of governments and long-term real GDP growth. Countries with higher levels of government spending grew less rapidly. The line drawn through the points indicates that a 10-percentage-point increase in government expenditures as a share of GDP leads to approximately a 1-percentage-point reduction in economic growth.
+      The graph contains four dots (observations) for each of the twenty-three countries (one for each of the four decades during the period 1960-1999). Each dot represents a country's total government spending as a share of GDP at the beginning of the decade and its accompanying growth of real GDP during that decade. As the plotted line in the exhibit shows, there is a clearly observable negative relationship between size of governments and long-term real GDP growth. Countries with higher levels of government spending grew less rapidly. The line drawn through the points indicates that a 10-percentage-point increase in government expenditures as a share of GDP leads to approximately a 1-percentage-point reduction in economic growth.
     </p>
   </div>
   
@@ -203,7 +203,7 @@ However, when government spending exceeds these mandates, it takes the country&#
 <div>
 </div>
 
-The reason GDP matters is that it is directly correlated to a reduction in human suffering. Economic growth is the primary differentiating factor between a life lived in the US and a life lived in North Korea. Economic growth is the primary differentiating factor between a life lived in the 11th century and the 21st century. Economic growth has cured countless diseases which would have otherwise imbued countless lives with unimaginable suffering. Economic growth has prevented billions from dying of starvation. If governments will get out of its way, economic growth will eventually eliminate human suffering from the planet. Also, according to the most recent <a href="http://content.time.com/time/business/article/0,8599,2016291,00.html" target="_blank">income/happiness study</a>, the lower a person&#8217;s annual income falls below $75,000 a year, the unhappier he or she feels. But no matter how much more than $75,000 people make, they don&#8217;t report any greater degree of happiness. The strong correlation between happiness and GDP is illustrated below.
+The reason GDP matters is that it is directly correlated to a reduction in human suffering. Economic growth is the primary differentiating factor between a life lived in the US and a life lived in North Korea. Economic growth is the primary differentiating factor between a life lived in the 11th century and the 21st century. Economic growth has cured countless diseases which would have otherwise imbued countless lives with unimaginable suffering. Economic growth has prevented billions from dying of starvation. If governments will get out of its way, economic growth will eventually eliminate human suffering from the planet. Also, according to the most recent <a href="http://content.time.com/time/business/article/0,8599,2016291,00.html" target="_blank">income/happiness study</a>, the lower a person's annual income falls below $75,000 a year, the unhappier he or she feels. But no matter how much more than $75,000 people make, they don't report any greater degree of happiness. The strong correlation between happiness and GDP is illustrated below.
 
 <p style="text-align: center;">
   <img data-attachment-id="640" data-permalink="https://thinkbynumbers.org/economics/gdp/ideal-level-of-government-spending/attachment/nythappiness/" data-orig-file="https://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness.jpg" data-orig-size="694,670" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Life Satisfaction vs Per Capita GDP" data-image-description="" data-medium-file="https://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness-300x290.jpg" data-large-file="https://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness.jpg" class="size-full wp-image-640 aligncenter" title="Life Satisfaction vs Per Capita GDP" src="http://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness.jpg" alt="Graph Showing Wealthier Countries Exhibit Greater Life Satisfaction" width="694" height="670" srcset="https://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness.jpg 694w, https://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness-300x290.jpg 300w, https://thinkbynumbers.org/wp-content/uploads/2010/10/nythappiness-672x649.jpg 672w" sizes="(max-width: 694px) 100vw, 694px" />

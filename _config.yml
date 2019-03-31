@@ -1,15 +1,9 @@
 ---
+name: Think by Numbers
+description: A better world through data.
 title: The Journal of Citizen Science
 timezone: UTC
 collections:
-  global-studies:
-    title: Global Studies
-    output: true
-    permalink: "/:collection/:path/"
-  personal-studies:
-    title: Personal Studies
-    output: true
-    permalink: "/:collection/:path/"
   posts:
     title: Posts
     output: true
@@ -24,28 +18,14 @@ defaults:
     layout: post
     comments: true
     share: true
-- scope:
-    path: _personal-studies
-    type: personal-studies
-  values:
-    layout: post
-    comments: true
-    share: true
-- scope:
-    path: _global-studies
-    type: global-studies
-  values:
-    layout: post
-    comments: true
-    share: true
-email: mike@quantimo.do
+email: m@thinkbynumbers.org
 twitter_username: thinkbynumbers
 github_username: mikepsinn
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 description: Creating a better world through data.
 baseurl: ''
-url: https://studies.quantimo.do
+url: https://thinkbynumbers.org
 logo: "/images/crowdsourcing-utopia-icon-1024-1024.png"
 date_format: "%B %-d, %Y"
 read_time: false
@@ -58,9 +38,9 @@ google_fonts:
   weights: 400,400i,700,700i
 google_analytics: UA-39222734-30
 disqus:
-  shortname: journal-of-citizen-science
+  shortname: thinkbynumbers
 twitter:
-  username: quantimodo
+  username: thinkbynumbers
 google_site_verification: t2j9fjC_8bPF8oF3d4MwIWzhRfi9FBxV8jEoFo2e8e0
 liquid:
   error_mode: strict

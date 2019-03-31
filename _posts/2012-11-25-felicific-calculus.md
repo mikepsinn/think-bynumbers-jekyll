@@ -44,7 +44,7 @@ categories:
   </ol>
   
   <h2>
-    Bentham&#8217;s instructions
+    Bentham's instructions
   </h2>
   
   <ul>

@@ -78,7 +78,7 @@ tags:
 
 #### New Look! Same Great Waste!
 
-Obama&#8217;s 2013 budget is [$3.80 Trillion](https://en.wikipedia.org/wiki/2013_United_States_federal_budget). Romney&#8217;s will be $3.79 trillion.
+Obama's 2013 budget is [$3.80 Trillion](https://en.wikipedia.org/wiki/2013_United_States_federal_budget). Romney's will be $3.79 trillion.
 
 Budget Changes Specified by Candidate Romney™:
 
@@ -89,7 +89,7 @@ Budget Changes Specified by Candidate Romney™:
   5. Eliminate Amtrak Subsidies &#8211; Estimated Savings = [$1.6](http://reason.com/archives/2011/11/09/absolutely-profligate) billion annually
   6. Eliminate Title X Family Planning Programs &#8211; Estimated Savings = [$0.3](http://khn.org/news/planned-parenthood-title-10/) billion annually
 
-Add it up.  Romney&#8217;s Total Savings = $0.01 trillion less than Obama&#8217;s budget! With a national debt on the order of [$16.2](http://www.treasurydirect.gov/NP/debt/current) trillion, you’ll barely even notice the difference!
+Add it up.  Romney's Total Savings = $0.01 trillion less than Obama's budget! With a national debt on the order of [$16.2](http://www.treasurydirect.gov/NP/debt/current) trillion, you’ll barely even notice the difference!
 
 ## Past Spending Records
 
@@ -97,7 +97,7 @@ Add it up.  Romney&#8217;s Total Savings = $0.01 trillion less than Obama&#8217
 
 Governor Romney™ has been scientifically proven to increase spending faster than the President Obama™! Obama has only increased government spending a disappointing [5.5%](https://www.washingtonpost.com/blogs/fact-checker/post/the-facts-about-the-growth-of-spending-under-obama/2012/05/24/gJQAIJh6nU_blog.html) annually over his term.
 
-Under Governor Romney, Massachusetts state spending went from $22.3 billion to $28.1 billion,  an amazing [6.5%](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fthecaucus.blogs.nytimes.com%2F2007%2F12%2F31%2Fclarification-on-huckabee-and-romney-spending%2F%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR) per year! That’s faster than most other leading governors (6.2%)! And if we&#8217;ve learned anything from the vast disparity between George W. Bush’s fiscal rhetoric and [fiscal record](https://www.mercatus.org/publication/spending-under-president-george-w-bush), it’s that Romney’s gubernatorial record might be a better indicator of what we could expect from a Romney federal budget.
+Under Governor Romney, Massachusetts state spending went from $22.3 billion to $28.1 billion,  an amazing [6.5%](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fthecaucus.blogs.nytimes.com%2F2007%2F12%2F31%2Fclarification-on-huckabee-and-romney-spending%2F%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR) per year! That’s faster than most other leading governors (6.2%)! And if we've learned anything from the vast disparity between George W. Bush’s fiscal rhetoric and [fiscal record](https://www.mercatus.org/publication/spending-under-president-george-w-bush), it’s that Romney’s gubernatorial record might be a better indicator of what we could expect from a Romney federal budget.
 
 ## Campaign Contributors
 

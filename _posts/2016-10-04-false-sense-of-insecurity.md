@@ -152,7 +152,7 @@ tags:
     </p>
     
     <h3>
-      How You&#8217;re Really Going to Die
+      How You're Really Going to Die
     </h3>
   </div>
   
@@ -479,7 +479,7 @@ So looking at it another way, we spend $500 million for every death from terrori
 
 Evolutionary psychology may be able to explain this phenomenon. The human brain has been around for 200,000 years. &nbsp; More than 99% of that evolution has been characterized by starvation and general scarcity of resources typified the environment in which humans evolved. &nbsp;In this situation, violent acquisition of resources from other groups was often a necessary survival&nbsp;technique. Hence, human brains most hyper-vigilant and&nbsp;aggressive&nbsp;toward human threats (i.e. terrorists) were most likely to survive and propagate these&nbsp;characteristics.
 
-On the other hand, throughout evolutionary history medical science was almost non-existent. &nbsp;Hence, there would be no survival value added by a tendency to focus on more likely health-related causes of death. We just weren&#8217;t designed for these times.
+On the other hand, throughout evolutionary history medical science was almost non-existent. &nbsp;Hence, there would be no survival value added by a tendency to focus on more likely health-related causes of death. We just weren't designed for these times.
 
 ###### Anxiety Fatigue
 

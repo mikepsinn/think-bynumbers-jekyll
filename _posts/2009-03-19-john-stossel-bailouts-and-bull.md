@@ -67,6 +67,6 @@ tags:
   Subscribe: <a href="https://itunes.apple.com/us/podcast/think-by-numbers/id660714690?mt=2&ls=1#episodeGuid=http%3A%2F%2Fthinkbynumbers.org%2Fwordpress%2F%3Fp%3D9" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://subscribeonandroid.com/thinkbynumbers.org/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_android" title="Subscribe on Android" rel="nofollow">Android</a> | <a href="https://thinkbynumbers.org/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" title="Subscribe via RSS" rel="nofollow">RSS</a>
 </p>
 
-This is the only clear examination of the true costs of the bailouts that I&#8217;ve seen.
+This is the only clear examination of the true costs of the bailouts that I've seen.
 
 These ideas are so simple, yet so rarely ever expressed in the mainstream media.

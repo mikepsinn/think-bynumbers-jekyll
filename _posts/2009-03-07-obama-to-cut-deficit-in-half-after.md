@@ -28,7 +28,7 @@ categories:
 ---
 &#8220;Obama plans to slash deficit in half&#8221; is the title of this AP story. The attribution of fiscal responsibility to our current president is rather misleading.
 
-Here&#8217;s a graph from a [Wall Street Journal article](http://www.wsj.com/articles/SB123457407865686565) of the annual federal budget deficits over the last 30 years.
+Here's a graph from a [Wall Street Journal article](http://www.wsj.com/articles/SB123457407865686565) of the annual federal budget deficits over the last 30 years.
 
 <img class="aligncenter" style="width: 406px; height: 304px;" title="Deep Impact: Federal Budget Surplus/Deficit" src="http://thinkbynumbers.org/wp-content/uploads/2012/11/NA-AV884_WDEFIC_NS_20090213222641.gif" alt="Graph Showing Federal Budget Surplus/Deficit Since 1980 (30 years)" width="383" height="288" /> 
 

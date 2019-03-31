@@ -89,7 +89,7 @@ tags:
 </p>
 
 <p dir="ltr">
-  This is what happened. Over the next 25 years, Chile&#8217;s per capita GDP grew 100% while Mexico has exhibited an impressive 0% growth rate.  This means the average Chilean is twice as rich as he was 25 years ago, whereas the average Mexican stayed just as poor as he was before.
+  This is what happened. Over the next 25 years, Chile's per capita GDP grew 100% while Mexico has exhibited an impressive 0% growth rate.  This means the average Chilean is twice as rich as he was 25 years ago, whereas the average Mexican stayed just as poor as he was before.
 </p>
 
 <div dir="ltr" style="text-align: left;">
@@ -102,6 +102,6 @@ tags:
   </p>
   
   <p>
-    Yet that&#8217;s exactly what were doing. We&#8217;re taxing successful, competently run businesses to subsidize irresponsible, poorly run businesses. Until we realize this simple fact, the previous trend of increased productivity and standards of living will only be a memory.
+    Yet that's exactly what were doing. We're taxing successful, competently run businesses to subsidize irresponsible, poorly run businesses. Until we realize this simple fact, the previous trend of increased productivity and standards of living will only be a memory.
   </p>
 </div>

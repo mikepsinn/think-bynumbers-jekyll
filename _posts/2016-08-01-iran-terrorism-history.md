@@ -64,7 +64,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
     
     <td>
       <h2 id="internal-source-marker_0.338832648110431" dir="ltr">
-        Juggalo&#8217;s Corner
+        Juggalo's Corner
       </h2>
       
       <p dir="ltr">
@@ -76,11 +76,11 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
       </p>
       
       <p dir="ltr" style="text-align: justify;">
-           If Iran is truly as wicked hardcore as Americans claim, they should have a history with a serious mutha f***in&#8217; body count. However, when you examine Iran&#8217;s history, it becomes painfully obvious that Iran, in fact, has a p***y for ballz. Despite the incendiary rhetoric of its leaders, Iran, when comparing their body count to that of the United States, just be lookin&#8217; like some candy-ass bitchez.
+           If Iran is truly as wicked hardcore as Americans claim, they should have a history with a serious mutha f***in' body count. However, when you examine Iran's history, it becomes painfully obvious that Iran, in fact, has a p***y for ballz. Despite the incendiary rhetoric of its leaders, Iran, when comparing their body count to that of the United States, just be lookin' like some candy-ass bitchez.
       </p>
       
       <p>
-        Conversely, a serious examination of American historical interaction with Iran reveals the US actually possesses grenades for balls that will indeed get your mouf blowed up when you suck them.  Let&#8217;s look at the numbers.</td> </tr> </tbody> </table> 
+        Conversely, a serious examination of American historical interaction with Iran reveals the US actually possesses grenades for balls that will indeed get your mouf blowed up when you suck them.  Let's look at the numbers.</td> </tr> </tbody> </table> 
         
         <h2 style="text-align: justify;">
           <strong>IRAN VERSUS THE US:  </strong>Will the real HARD CORE gangstas please stand up?
@@ -109,13 +109,13 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
         <div style="text-align: justify;">
           <ul>
             <li>
-              <strong><a href="https://en.wikipedia.org/wiki/Iran_Air_Flight_655">Iran Air Flight 655</a></strong> was a civilian jet airliner shot down by U.S. missiles on July 3, 1988, over the Strait of Hormuz, toward the end of the Iran–Iraq War. The aircraft, an Airbus A300B2-203 operated by Iran Air, was flying from Bandar Abbas, Iran, to Dubai, United Arab Emirates, over Iran&#8217;s territorial waters in the Persian Gulf on its usual flight path when it was destroyed by the United States Navy guided missile cruiser USS <em>Vincennes</em> (CG-49), killing all 290 passengers and crew aboard.
+              <strong><a href="https://en.wikipedia.org/wiki/Iran_Air_Flight_655">Iran Air Flight 655</a></strong> was a civilian jet airliner shot down by U.S. missiles on July 3, 1988, over the Strait of Hormuz, toward the end of the Iran–Iraq War. The aircraft, an Airbus A300B2-203 operated by Iran Air, was flying from Bandar Abbas, Iran, to Dubai, United Arab Emirates, over Iran's territorial waters in the Persian Gulf on its usual flight path when it was destroyed by the United States Navy guided missile cruiser USS <em>Vincennes</em> (CG-49), killing all 290 passengers and crew aboard.
             </li>
           </ul>
           
           <ul>
             <li>
-              The U.S. government issued notes of regret for the loss of human lives and in 1996 paid reparations to settle a suit brought in the International Court of Justice regarding the incident, however the United States never released an apology or acknowledgment of wrongdoing. In August 1988 <em><a title="Newsweek" href="https://en.wikipedia.org/wiki/Newsweek">Newsweek</a></em> quoted Vice President George H. W. Bush as saying &#8220;I&#8217;ll never apologize for the United States of America. Ever. I don&#8217;t care what the facts are.&#8221;
+              The U.S. government issued notes of regret for the loss of human lives and in 1996 paid reparations to settle a suit brought in the International Court of Justice regarding the incident, however the United States never released an apology or acknowledgment of wrongdoing. In August 1988 <em><a title="Newsweek" href="https://en.wikipedia.org/wiki/Newsweek">Newsweek</a></em> quoted Vice President George H. W. Bush as saying &#8220;I'll never apologize for the United States of America. Ever. I don't care what the facts are.&#8221;
             </li>
           </ul>
         </div>
@@ -145,7 +145,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
           
           <ul>
             <li>
-              <strong><a href="https://en.wikipedia.org/wiki/United_States_support_for_Iraq_during_the_Iran%E2%80%93Iraq_war">United States support for Iraq during the Iran–Iraq War</a></strong>, as a counterbalance to post-revolutionary Iran, included several billion dollars worth of economic aid, the sale of dual-use technology, non-U.S. origin weaponry, military intelligence, Special Operations training, and direct involvement in warfare against Iran. <a href="https://en.wikipedia.org/wiki/United_States_support_for_Iraq_during_the_Iran%E2%80%93Iraq_war">Support from the U.S</a>. for Iraq was not a secret and was frequently discussed in open session of the Senate and House of Representatives. On June 9, 1992, <a href="http://web.archive.org/web/20140815195120/http://homepage.ntlworld.com/jksonc/docs/ir655-nightline-19920701.html">Ted Koppel </a>reported on ABC&#8217;s <em>Nightline</em>, &#8220;It is becoming increasingly clear that George Bush, operating largely behind the scenes throughout the 1980s, initiated and supported much of the financing, intelligence, and military help that built Saddam&#8217;s Iraq into&#8221; the power it became&#8221;, and &#8220;Reagan/Bush administrations permitted—and frequently encouraged—the flow of money, agricultural credits, dual-use technology, chemicals, and weapons to Iraq.&#8221;
+              <strong><a href="https://en.wikipedia.org/wiki/United_States_support_for_Iraq_during_the_Iran%E2%80%93Iraq_war">United States support for Iraq during the Iran–Iraq War</a></strong>, as a counterbalance to post-revolutionary Iran, included several billion dollars worth of economic aid, the sale of dual-use technology, non-U.S. origin weaponry, military intelligence, Special Operations training, and direct involvement in warfare against Iran. <a href="https://en.wikipedia.org/wiki/United_States_support_for_Iraq_during_the_Iran%E2%80%93Iraq_war">Support from the U.S</a>. for Iraq was not a secret and was frequently discussed in open session of the Senate and House of Representatives. On June 9, 1992, <a href="http://web.archive.org/web/20140815195120/http://homepage.ntlworld.com/jksonc/docs/ir655-nightline-19920701.html">Ted Koppel </a>reported on ABC's <em>Nightline</em>, &#8220;It is becoming increasingly clear that George Bush, operating largely behind the scenes throughout the 1980s, initiated and supported much of the financing, intelligence, and military help that built Saddam's Iraq into&#8221; the power it became&#8221;, and &#8220;Reagan/Bush administrations permitted—and frequently encouraged—the flow of money, agricultural credits, dual-use technology, chemicals, and weapons to Iraq.&#8221;
             </li>
           </ul>
         </div>
@@ -171,7 +171,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
               <span style="line-height: 18px;"><a href="http://www.huffingtonpost.com/peter-van-buren/end-of-iraq-war_b_1156468.html">4,474</a> Americans were killed in Iraq.  </span><span style="line-height: 18px;">There are many unsourced claims from the Pentagon and the American media that Iran has been providing weapons to insurgents in Iraq.  However, </span><a style="line-height: 18px;" href="http://www.antiwar.com/orig/giraldi.php?articleid=11509">no evidence</a><span style="line-height: 18px;"> has been presented proving citizens of Iran, let alone the Iranian government, is </span><span style="line-height: 17px;">culpable</span><span style="line-height: 18px;"> for these deaths. </span>
             </li>
             <li>
-              October 23, 1983, Beirut, Lebanon. A truck loaded with a bomb crashed into the lobby of the U.S. Marines headquarters in Beirut, killing <a href="http://avpv.tripod.com/AmericanVictims.html" target="_blank">241 </a>soldiers and wounding 81. Some analysts believe the Islamic Republic of Iran was heavily involved and that a major factor leading it to participate in the attacks on the barracks was America&#8217;s support for <a title="Iraq" href="https://en.wikipedia.org/wiki/Iraq">Iraq</a> in the <a title="Iran-Iraq War" href="https://en.wikipedia.org/wiki/Iran-Iraq_War">Iran-Iraq War</a> and its extending of $2.5 billion in trade credit to Iraq while halting the shipments of arms to Iran. However, in 2001, former Secretary of Defense at the time of the bombing, Caspar Weinberger, stated: &#8220;But we still do not have the actual knowledge of who did the bombing of the Marine barracks at the Beirut Airport, and we certainly didn&#8217;t then.&#8221;
+              October 23, 1983, Beirut, Lebanon. A truck loaded with a bomb crashed into the lobby of the U.S. Marines headquarters in Beirut, killing <a href="http://avpv.tripod.com/AmericanVictims.html" target="_blank">241 </a>soldiers and wounding 81. Some analysts believe the Islamic Republic of Iran was heavily involved and that a major factor leading it to participate in the attacks on the barracks was America's support for <a title="Iraq" href="https://en.wikipedia.org/wiki/Iraq">Iraq</a> in the <a title="Iran-Iraq War" href="https://en.wikipedia.org/wiki/Iran-Iraq_War">Iran-Iraq War</a> and its extending of $2.5 billion in trade credit to Iraq while halting the shipments of arms to Iran. However, in 2001, former Secretary of Defense at the time of the bombing, Caspar Weinberger, stated: &#8220;But we still do not have the actual knowledge of who did the bombing of the Marine barracks at the Beirut Airport, and we certainly didn't then.&#8221;
             </li>
           </ul>
           
@@ -211,7 +211,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
           
           <ol>
             <li>
-              <span style="line-height: 18px;">The <strong>1953 Iranian <a href="https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat">coup d&#8217;état</a></strong> (known in <a title="Iran" href="https://en.wikipedia.org/wiki/Iran">Iran</a> as the <strong>28 Mordad coup</strong>) was the overthrow of the democratically elected government of Iranian Prime Minister Mohammad Mosaddegh on 19 August 1953, orchestrated by the intelligence agencies of the United Kingdom and the United States under the name <strong><em>TPAJAX</em> Project</strong>. The coup saw the transition of Mohammad-Rezā Shāh Pahlavi from a constitutional monarch to an authoritarian one who relied heavily on United States support to hold on to power until <a title="Iranian Revolution" href="https://en.wikipedia.org/wiki/Iranian_Revolution">his own overthrow in February 1979</a>. </span>
+              <span style="line-height: 18px;">The <strong>1953 Iranian <a href="https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat">coup d'état</a></strong> (known in <a title="Iran" href="https://en.wikipedia.org/wiki/Iran">Iran</a> as the <strong>28 Mordad coup</strong>) was the overthrow of the democratically elected government of Iranian Prime Minister Mohammad Mosaddegh on 19 August 1953, orchestrated by the intelligence agencies of the United Kingdom and the United States under the name <strong><em>TPAJAX</em> Project</strong>. The coup saw the transition of Mohammad-Rezā Shāh Pahlavi from a constitutional monarch to an authoritarian one who relied heavily on United States support to hold on to power until <a title="Iranian Revolution" href="https://en.wikipedia.org/wiki/Iranian_Revolution">his own overthrow in February 1979</a>. </span>
             </li>
           </ol>
           
@@ -349,7 +349,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
                 </h5>
                 
                 <p>
-                  Under orders from President Eisenhower, the CIA organized a military coup that overthrew Iran&#8217;s democratically elected Prime Minister Mohammed Mossadegh.  Britain, unhappy that Iran nationalized its oil industry, came up with the idea for the coup and pressed the United States to mount a joint operation to remove Mossadeqh.</td> </tr> </tbody> </table> 
+                  Under orders from President Eisenhower, the CIA organized a military coup that overthrew Iran's democratically elected Prime Minister Mohammed Mossadegh.  Britain, unhappy that Iran nationalized its oil industry, came up with the idea for the coup and pressed the United States to mount a joint operation to remove Mossadeqh.</td> </tr> </tbody> </table> 
                   
                   <table border="0" width="100%">
                     <tr>
@@ -377,7 +377,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
                                 </h5>
                                 
                                 <p>
-                                  U.S.-backed Shah of Iran forced to leave the country after widespread demonstrations and strikes. Islamic religious leader Ayatollah Khomeini returns from exile and takes effective power.  Sixty-six hostages taken by students at the U.S. embassy in Tehran.  The students justified taking the hostages as retaliation for the admission of the Shah into the U.S., and demanded the Shah be returned to Iran for a trial. The new Iranian regime believed the Shah was in the U.S. so that the U.S. could carry out another coup d&#8217;etat in Iran; the U.S. claimed he had come there only to seek medical attention. The Shah was given refuge and Iranians demanded his extradition to Iran to face justice.  The U.S. rejected Iran&#8217;s request and the hostage taking ensued. The hostage crisis at the U.S. embassy in Tehran lasted 444 days.</td> </tr> </tbody> </table> 
+                                  U.S.-backed Shah of Iran forced to leave the country after widespread demonstrations and strikes. Islamic religious leader Ayatollah Khomeini returns from exile and takes effective power.  Sixty-six hostages taken by students at the U.S. embassy in Tehran.  The students justified taking the hostages as retaliation for the admission of the Shah into the U.S., and demanded the Shah be returned to Iran for a trial. The new Iranian regime believed the Shah was in the U.S. so that the U.S. could carry out another coup d'etat in Iran; the U.S. claimed he had come there only to seek medical attention. The Shah was given refuge and Iranians demanded his extradition to Iran to face justice.  The U.S. rejected Iran's request and the hostage taking ensued. The hostage crisis at the U.S. embassy in Tehran lasted 444 days.</td> </tr> </tbody> </table> 
                                   
                                   <table border="0" width="100%">
                                     <tr>
@@ -387,7 +387,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
                                         </h5>
                                         
                                         <p>
-                                          Iraq invades neighboring Iran with the approval of the United States.  The war lasts eight years and kills hundreds of thousands of Iraqis and Iranians.  Iran suffered heavy casualties from Saddam&#8217;s chemical weapons, many of which were provided by the U.S.</td> 
+                                          Iraq invades neighboring Iran with the approval of the United States.  The war lasts eight years and kills hundreds of thousands of Iraqis and Iranians.  Iran suffered heavy casualties from Saddam's chemical weapons, many of which were provided by the U.S.</td> 
                                           
                                           <td>
                                             <a href="http://thinkbynumbers.org/wp-content/uploads/2012/07/clock4.gif"><img data-attachment-id="2116" data-permalink="https://thinkbynumbers.org/military/war/iran-terrorism-history/attachment/clock4/" data-orig-file="https://thinkbynumbers.org/wp-content/uploads/2012/07/clock4.gif" data-orig-size="181,250" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="clock4" data-image-description="" data-medium-file="https://thinkbynumbers.org/wp-content/uploads/2012/07/clock4.gif" data-large-file="https://thinkbynumbers.org/wp-content/uploads/2012/07/clock4.gif" class="aligncenter wp-image-2116" src="http://thinkbynumbers.org/wp-content/uploads/2012/07/clock4.gif" alt="" width="127" height="175" /></a>
@@ -415,7 +415,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
                                                         </h5>
                                                         
                                                         <p>
-                                                          As Iranian forces gained the upper hand on the battlefield with Iraq, the U.S. launched another covert operation to arm and aid Saddam.  It began clandestinely to supply Saddam with satellite intelligence on Iran&#8217;s deployments.  Weapons were also sent via CIA fronts in Chile and Saudi Arabia directly to Baghdad. Iraqi President Saddam Hussein greets Donald Rumsfeld, then special envoy of President Ronald Reagan, in Baghdad on December 20, 1983.</td> 
+                                                          As Iranian forces gained the upper hand on the battlefield with Iraq, the U.S. launched another covert operation to arm and aid Saddam.  It began clandestinely to supply Saddam with satellite intelligence on Iran's deployments.  Weapons were also sent via CIA fronts in Chile and Saudi Arabia directly to Baghdad. Iraqi President Saddam Hussein greets Donald Rumsfeld, then special envoy of President Ronald Reagan, in Baghdad on December 20, 1983.</td> 
                                                           
                                                           <td>
                                                             <a href="http://thinkbynumbers.org/wp-content/uploads/2012/07/clock6.gif"><img data-attachment-id="2118" data-permalink="https://thinkbynumbers.org/military/war/iran-terrorism-history/attachment/clock6/" data-orig-file="https://thinkbynumbers.org/wp-content/uploads/2012/07/clock6.gif" data-orig-size="180,250" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="clock6" data-image-description="" data-medium-file="https://thinkbynumbers.org/wp-content/uploads/2012/07/clock6.gif" data-large-file="https://thinkbynumbers.org/wp-content/uploads/2012/07/clock6.gif" class="aligncenter wp-image-2118" src="http://thinkbynumbers.org/wp-content/uploads/2012/07/clock6.gif" alt="" width="238" height="247" /></a>
@@ -433,7 +433,7 @@ Many Americans consider Iran to be a psychopathically violent nation that would 
                                                                 </h5>
                                                                 
                                                                 <p>
-                                                                  Iran-Contra Affair: U.S. holds secret talks with Iran and makes weapons shipments, allegedly in exchange for Iranian assistance in releasing U.S. hostages in Lebanon. With revelations that profits were illegally channeled to Nicaraguan rebels, this creates the biggest crisis of Ronald Reagan&#8217;s presidency.</td> </tr> </tbody> </table> 
+                                                                  Iran-Contra Affair: U.S. holds secret talks with Iran and makes weapons shipments, allegedly in exchange for Iranian assistance in releasing U.S. hostages in Lebanon. With revelations that profits were illegally channeled to Nicaraguan rebels, this creates the biggest crisis of Ronald Reagan's presidency.</td> </tr> </tbody> </table> 
                                                                   
                                                                   <table border="0" width="100%">
                                                                     <tr>

@@ -46,7 +46,7 @@ From <a href="http://algosphere.org/" target="_blank">algosphere.org</a>:
 > Algonomy is a framework that allows to deal with knowledge and action about suffering through a discipline that is proper to that phenomenon. Of course, it touches upon a large variety of domains, most particularly psychology, philosophy, religion, politics, health, justice, and the social services. However,**algonomy clearly distinguishes itself from any other approach to suffering because it is concerned both specifically and universally with that subject, and with nothing else **: in other words, a theoretical or practical activity may be said algonomic if, &#8220;in principle&#8221;, it deals with suffering, the whole of suffering, and nothing but suffering. Thanks to these characteristics, algonomy allows us to go beyond three kinds of shortcomings against which other disciplines, for all their merits, are powerless when they deal with suffering.
 > 
 > <p dir="ltr" align="justify">
->   <span style="font-family: Arial; font-size: small;">1- First, other approaches are inappropriate or inadequate insofar as their specific object of concern is not suffering itself, as such, &#8216;per se&#8217;. Only algonomy allows us to acknowledge the specific reality of suffering in all its guises.</span>
+>   <span style="font-family: Arial; font-size: small;">1- First, other approaches are inappropriate or inadequate insofar as their specific object of concern is not suffering itself, as such, &#8216;per se'. Only algonomy allows us to acknowledge the specific reality of suffering in all its guises.</span>
 > </p>
 > 
 > <p align="justify">

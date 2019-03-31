@@ -14,7 +14,7 @@ categories:
   - Government Spending
 format: aside
 ---
-The average American pays [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) in &#8220;personal taxes,&#8221; representing [14%](https://en.wikipedia.org/wiki/Household_income_in_the_United_States) of the average household&#8217;s total income. 
+The average American pays [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) in &#8220;personal taxes,&#8221; representing [14%](https://en.wikipedia.org/wiki/Household_income_in_the_United_States) of the average household's total income. 
 
 This [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) includes:
 

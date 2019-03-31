@@ -75,7 +75,7 @@ tags:
   Subscribe: <a href="https://itunes.apple.com/us/podcast/think-by-numbers/id660714690?mt=2&ls=1#episodeGuid=http%3A%2F%2Fthinkbynumbers.org%2Fwordpress%2F%3Fp%3D6" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://subscribeonandroid.com/thinkbynumbers.org/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_android" title="Subscribe on Android" rel="nofollow">Android</a> | <a href="https://thinkbynumbers.org/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" title="Subscribe via RSS" rel="nofollow">RSS</a>
 </p>
 
-Those defending the huge budget deficit incurred by the massive federal stimulus package often say, &#8220;These are extraordinary times. We can&#8217;t afford to worry about the national debt now. We&#8217;ll be in a better position to deal with that later.&#8221;
+Those defending the huge budget deficit incurred by the massive federal stimulus package often say, &#8220;These are extraordinary times. We can't afford to worry about the national debt now. We'll be in a better position to deal with that later.&#8221;
 
 The falsehood of dealing with the government debt like that is best illustrated by the following chart.
 

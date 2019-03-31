@@ -34,7 +34,7 @@ categories:
   Dear President Obama,
 </p>
 
-I know you&#8217;re very busy, so I&#8217;m very sorry to bother you with this. However, I think what I have to say too important for you to ignore.  I appreciate that you are trying to make the world a better place. I respect you as a person. Against all adversity you have achieved some very amazing things.[<img class="alignright" title="No Drugs!" src="http://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif" alt="" width="138" height="138" />](http://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif)
+I know you're very busy, so I'm very sorry to bother you with this. However, I think what I have to say too important for you to ignore.  I appreciate that you are trying to make the world a better place. I respect you as a person. Against all adversity you have achieved some very amazing things.[<img class="alignright" title="No Drugs!" src="http://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif" alt="" width="138" height="138" />](http://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif)
 
 <div id="contents">
   <p>
@@ -42,7 +42,7 @@ I know you&#8217;re very busy, so I&#8217;m very sorry to bother you with th
   </p>
   
   <p>
-    So I am completely aware of the fact that there can be horrific and permanent negative consequences to the abuse of drugs.  However, imprisoning people for the possession of these substances does not erase this harm. The War on Drugs was in full effect when my sister and grandmother were killed, and it certainly didn&#8217;t protect them.
+    So I am completely aware of the fact that there can be horrific and permanent negative consequences to the abuse of drugs.  However, imprisoning people for the possession of these substances does not erase this harm. The War on Drugs was in full effect when my sister and grandmother were killed, and it certainly didn't protect them.
   </p>
   
   <p>
@@ -93,7 +93,7 @@ I know you&#8217;re very busy, so I&#8217;m very sorry to bother you with th
   </address>
   
   <p>
-    What&#8217;s worse, the money you are stealing from me isn&#8217;t even having any impact on the level of illicit drug use.  You are just tearing apart thousands of families for no reason. Addiction rates are at exactly the same level that they were before we spent <a href="http://www.mattgroff.com/questions-on-the-1315-project-chart/">$1.5 trillion</a> dollars on “drug control measures”.  This fact is illustrated in the <a href="http://www.mattgroff.com/wp-content/uploads/2012/10/13v15.gif">graph</a> below.
+    What's worse, the money you are stealing from me isn't even having any impact on the level of illicit drug use.  You are just tearing apart thousands of families for no reason. Addiction rates are at exactly the same level that they were before we spent <a href="http://www.mattgroff.com/questions-on-the-1315-project-chart/">$1.5 trillion</a> dollars on “drug control measures”.  This fact is illustrated in the <a href="http://www.mattgroff.com/wp-content/uploads/2012/10/13v15.gif">graph</a> below.
   </p>
   
   <div style="width: 510px" class="wp-caption alignnone">

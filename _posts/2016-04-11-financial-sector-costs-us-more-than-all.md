@@ -104,7 +104,7 @@ tags:
   </p>
   
   <p>
-    In&nbsp;1985, the financial sector earned less than 16% of domestic corporate profits. &nbsp;Today, it&#8217;s over&nbsp;40%.
+    In&nbsp;1985, the financial sector earned less than 16% of domestic corporate profits. &nbsp;Today, it's over&nbsp;40%.
   </p>
   
   <p>
@@ -125,7 +125,7 @@ tags:
     </p>
     
     <p>
-      The free market system automatically optimizes resource allocation to satisfy society&#8217;s wants and needs. The current problems in our financial sector can be seen as our economy&#8217;s attempt to reduce the excessive size of the financial sector and redirect those resources to more productive purposes. Yet, the government is doing everything in its power to counteract this process. The feds have taken or committed to take over <a href="http://web.archive.org/web/20090505164441/http://www.bloomberg.com:80/apps/news?pid=20601087%26sid=armOzfkwtCA4%26refer=home">$12 trillion</a> from the other sectors and given them to financial institution to maintain this imbalance. This works out to <a href="http://ww4.totalnoid.com/?kwrf=http%3A%2F%2Fthinkbynumbers.org">$42,105</a> for every man, woman and child in the U.S.
+      The free market system automatically optimizes resource allocation to satisfy society's wants and needs. The current problems in our financial sector can be seen as our economy's attempt to reduce the excessive size of the financial sector and redirect those resources to more productive purposes. Yet, the government is doing everything in its power to counteract this process. The feds have taken or committed to take over <a href="http://web.archive.org/web/20090505164441/http://www.bloomberg.com:80/apps/news?pid=20601087%26sid=armOzfkwtCA4%26refer=home">$12 trillion</a> from the other sectors and given them to financial institution to maintain this imbalance. This works out to <a href="http://ww4.totalnoid.com/?kwrf=http%3A%2F%2Fthinkbynumbers.org">$42,105</a> for every man, woman and child in the U.S.
     </p>
     
     <p>
@@ -141,7 +141,7 @@ tags:
     </p>
     
     <p>
-      Note another year in history when it peaked, 1929. &nbsp;At that time, many of the country&#8217;s resources were shifted to this low-employee, unproductive sector. &nbsp;It was followed by a decade of unemployment and economic stagnation. &nbsp;This would suggest that it may be unwise for the government to fuel this bloating if they wish to avoid another lost decade.
+      Note another year in history when it peaked, 1929. &nbsp;At that time, many of the country's resources were shifted to this low-employee, unproductive sector. &nbsp;It was followed by a decade of unemployment and economic stagnation. &nbsp;This would suggest that it may be unwise for the government to fuel this bloating if they wish to avoid another lost decade.
     </p>
     
     <p>
@@ -149,7 +149,7 @@ tags:
     </p>
     
     <p>
-      Correlation doesn&#8217;t necessarily imply causation. However, the reason the government is so set on using tax dollars to prop up these insolvent companies (as opposed to taking the bankruptcy route) might be related to campaign contributions. For instance, AIG executives gave more than <a href="http://abcnews.go.com/Politics/story?id=7110145">$630,000</a> during the 2008 political cycle even as the company was falling apart. President Obama collected a total of <a href="http://abcnews.go.com/Politics/story?id=7110145&page=1">$130,000</a> from AIG in 2008, while McCain accepted a total of <a href="http://abcnews.go.com/Politics/story?id=7110145&page=1">$59,499</a>. Last year AIG and its subsidiaries spent about <a href="http://www.opensecrets.org/news/2009/03/before-the-fall-aig-payouts-we/">$9.7 million</a> on federal lobbying, or about $53,000 for every day Congress was in session in 2008. Additionally, Obama&#8217;s top presidential campaign contributor was <a href="http://www.huffingtonpost.com/earl-ofari-hutchinson/mccain-and-obamas-wall-st_b_129872.html">Goldman-Sachs</a>. McCain&#8217;s was Merril-Lynch.
+      Correlation doesn't necessarily imply causation. However, the reason the government is so set on using tax dollars to prop up these insolvent companies (as opposed to taking the bankruptcy route) might be related to campaign contributions. For instance, AIG executives gave more than <a href="http://abcnews.go.com/Politics/story?id=7110145">$630,000</a> during the 2008 political cycle even as the company was falling apart. President Obama collected a total of <a href="http://abcnews.go.com/Politics/story?id=7110145&page=1">$130,000</a> from AIG in 2008, while McCain accepted a total of <a href="http://abcnews.go.com/Politics/story?id=7110145&page=1">$59,499</a>. Last year AIG and its subsidiaries spent about <a href="http://www.opensecrets.org/news/2009/03/before-the-fall-aig-payouts-we/">$9.7 million</a> on federal lobbying, or about $53,000 for every day Congress was in session in 2008. Additionally, Obama's top presidential campaign contributor was <a href="http://www.huffingtonpost.com/earl-ofari-hutchinson/mccain-and-obamas-wall-st_b_129872.html">Goldman-Sachs</a>. McCain's was Merril-Lynch.
     </p>
     
     <p>

@@ -38,7 +38,7 @@ tags:
   - salaries congress
   - wealth
 ---
-Our representative government is not socioeconomically representative of the governed. These bitches be gettin&#8217; paid! This begs the question, why so little bling on capitol hill?
+Our representative government is not socioeconomically representative of the governed. These bitches be gettin' paid! This begs the question, why so little bling on capitol hill?
 
 <p style="text-align: center;">
   <img class=" aligncenter" title="Unrepresentative Democracy - Government by the Millionaires and for the Millionaires" src="http://thinkbynumbers.org/wp-content/uploads/2011/10/Unrepresentative-Democracy-e1319168693378.jpg" alt="Graph Showing Percentage of Millionaires in Congress Compared to the General Public" width="500" height="442" />
