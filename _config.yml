@@ -63,7 +63,7 @@ plugins:
 - jekyll-tagging
 author:
   name: Mike P. Sinn
-  picture: "/images/mike-p-sinn-photo.jpg"
+  picture: "/wp-content/uploads/mike-p-sinn-photo.jpg"
   email: m@thinkbynumbers.org
   twitter: thinkbynumbers
   links:
