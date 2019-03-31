@@ -93,7 +93,7 @@ footer_links:
 - title: Search
   url: "/search/"
   icon: fas fa-search
-copyright: ©2019 <a href="https://quantimo.do" rel="nofollow">QuantiModo</a>
+copyright: ©2019 <a href="https://thinkbynumbers.org" rel="nofollow">Think by Numbers</a>
 exclude:
 - Gemfile.lock
 - node_modules
