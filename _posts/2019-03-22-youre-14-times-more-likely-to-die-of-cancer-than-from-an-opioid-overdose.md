@@ -5,7 +5,7 @@ date: 2019-03-22T03:38:38+00:00
 author: mikepsinn
 layout: post
 guid: https://thinkbynumbers.org/?p=9536
-permalink: /government-spending/youre-14-times-more-likely-to-die-of-cancer-than-from-an-opioid-overdose/
+permalink: /you-are-14-times-more-likely-to-die-of-cancer-than-from-an-opioid-overdose/
 image: /wp-content/uploads/2019/03/opioid-overdose-vs-cancer-graph.png
 categories:
   - Government Spending
