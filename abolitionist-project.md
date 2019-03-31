@@ -1,9 +1,7 @@
 ---
 title: The Abolitionist Project
-permalink: "/categories/"
-layout: categories
-show_excerpts: true
-entries_layout: list
+permalink: "/abolitionist-project/"
+layout: page
 ---
 
 Political Labels = Intellectual Prisons
