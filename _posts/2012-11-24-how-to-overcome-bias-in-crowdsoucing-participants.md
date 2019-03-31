@@ -4,7 +4,7 @@ title: How to Overcome Bias in Crowdsoucing Participants
 date: 2012-11-24T17:15:44+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/?p=12
+guid: https://thinkbynumbers.org/?p=12
 permalink: /obstacles/how-to-overcome-bias-in-crowdsoucing-participants/
 bfa_virtual_template:
   - hierarchy

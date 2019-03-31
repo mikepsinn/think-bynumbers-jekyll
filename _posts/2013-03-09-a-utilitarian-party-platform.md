@@ -4,7 +4,7 @@ title: A Utilitarian Party Platform
 date: 2013-03-09T13:13:30+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/blog/?p=242
+guid: https://thinkbynumbers.org/?p=242
 permalink: /politics/a-utilitarian-party-platform/
 bfa_virtual_template:
   - hierarchy

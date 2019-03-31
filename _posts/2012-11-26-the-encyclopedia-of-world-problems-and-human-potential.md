@@ -4,7 +4,7 @@ title: The Encyclopedia of World Problems and Human Potential
 date: 2012-11-26T14:57:01+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/?p=64
+guid: https://thinkbynumbers.org/?p=64
 permalink: /tools/the-encyclopedia-of-world-problems-and-human-potential/
 bfa_virtual_template:
   - hierarchy

@@ -4,7 +4,7 @@ title: The Wisdom of Crowds
 date: 2012-11-24T01:40:17+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/?p=1
+guid: https://thinkbynumbers.org/?p=1
 permalink: /books/wisdom-of-crowds/
 bfa_virtual_template:
   - hierarchy

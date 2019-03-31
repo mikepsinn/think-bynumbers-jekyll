@@ -4,7 +4,7 @@ title: Felicific Calculus
 date: 2012-11-25T21:50:41+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/?p=53
+guid: https://thinkbynumbers.org/?p=53
 permalink: /tools/felicific-calculus/
 bfa_virtual_template:
   - hierarchy

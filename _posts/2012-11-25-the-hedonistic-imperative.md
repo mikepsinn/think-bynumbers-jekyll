@@ -4,7 +4,7 @@ title: The Hedonistic Imperative
 date: 2012-11-25T18:41:10+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/?p=35
+guid: https://thinkbynumbers.org/?p=35
 permalink: /solutions/the-hedonistic-imperative/
 bfa_virtual_template:
   - hierarchy

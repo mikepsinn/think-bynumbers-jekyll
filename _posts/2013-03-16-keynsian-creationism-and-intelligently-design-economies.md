@@ -5,7 +5,7 @@ date: 2013-03-16T04:03:20+00:00
 author: Mike P. Sinn
 excerpt: "The mythology of effective Keynesian centralized economic planning is born of the same mother as the mythology of creationist intelligent design.  Both of these fantasies arise as a result of the human mind's inability to deal with complex systems."
 layout: post
-guid: http://crowdsourcingutopia.com/blog/?p=251
+guid: https://thinkbynumbers.org/?p=251
 permalink: /economics/keynsian-creationism-and-intelligently-design-economies/
 wdsi_do_not_show:
   - ""

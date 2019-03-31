@@ -4,7 +4,7 @@ title: Crowdsourcing Utopia
 date: 2012-11-24T01:40:17+00:00
 author: Mike P. Sinn
 layout: page
-guid: http://crowdsourcingutopia.com/?page_id=2
+guid: https://thinkbynumbers.org/?page_id=2
 bfa_virtual_template:
   - single
 wdsi_do_not_show:

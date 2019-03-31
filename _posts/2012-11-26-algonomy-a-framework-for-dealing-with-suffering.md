@@ -4,7 +4,7 @@ title: 'ALGONOMY: A FRAMEWORK FOR DEALING WITH SUFFERING'
 date: 2012-11-26T14:54:22+00:00
 author: Mike P. Sinn
 layout: post
-guid: http://crowdsourcingutopia.com/?p=62
+guid: https://thinkbynumbers.org/?p=62
 permalink: /tools/algonomy-a-framework-for-dealing-with-suffering/
 bfa_virtual_template:
   - hierarchy
