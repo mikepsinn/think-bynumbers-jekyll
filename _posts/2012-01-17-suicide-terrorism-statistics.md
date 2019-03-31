@@ -1,7 +1,7 @@
 ---
 id: 992
-title: 'What Really Causes Terrorism? It's Not Your Freedom.'
-date: 2012-01-17T05:56:07+00:00
+title: What Really Causes Terrorism? It's Not Your Freedom.
+date: 2012-01-17
 author: Mike P. Sinn
 excerpt: '95% of suicide terrorist attacks are targeted at occupying foreign militaries.  0% of suicide terrorist attacks have been directed at countries not militarily involved in geopolitical disputes.'
 layout: post

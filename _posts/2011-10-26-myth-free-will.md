@@ -25,8 +25,6 @@ categories:
   - Psychology
 tags:
   - brain
-  - brain scan
-  - brain science
   - choice
   - decision making
   - decisions

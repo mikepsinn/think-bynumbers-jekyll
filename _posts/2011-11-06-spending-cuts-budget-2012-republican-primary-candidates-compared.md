@@ -1,7 +1,7 @@
 ---
 id: 1123
-title: 'GOP Presidential Candidates' Budget Plans EXPOSED!!!'
-date: 2011-11-06T18:52:13+00:00
+title: GOP Presidential Candidates Budget Plans EXPOSED
+date: 2011-11-06
 author: Mike P. Sinn
 excerpt: GOP Candidate Ron Paul has produced a detailed budget containing over $1 trillion in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of $20 billion a year.
 layout: post
