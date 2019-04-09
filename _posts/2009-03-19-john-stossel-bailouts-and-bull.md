@@ -54,10 +54,8 @@ categories:
   - Corporate Welfare
   - Government Spending
 tags:
-  - 20/20
   - bailout
   - corporate welfare
-  - documentary
   - Government Spending
 ---
 <div class="powerpress_player" id="powerpress_player_222">

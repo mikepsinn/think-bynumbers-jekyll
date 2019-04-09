@@ -13,22 +13,6 @@ categories:
   - Debt
   - Taxes
 tags:
-  - candidates
-  - cuts
-  - debt
-  - economic
-  - economics
-  - economy
-  - fiscal conservative
-  - fiscal liberal
-  - gingrich
-  - gop
-  - paul
-  - romney
-  - santorum
-  - spending
-  - tax
-  - tax plan
   - tax policies
 ---
 The [national debt would](https://www.washingtonpost.com/business/economy/running-in-the-red-how-the-us-on-the-road-to-surplus-detoured-to-massive-debt/2011/04/28/AFFU7rNF_story.html) balloon under [tax policies](https://www.washingtonpost.com/politics/romney-obama-release-dueling-tax-overhaul-proposals/2012/02/22/gIQAKOLrTR_story.html) championed by three of the four major Republican candidates for president, according to an independent analysis of tax and spending proposals so far offered by the campaigns.

@@ -57,16 +57,10 @@ categories:
   - Government Spending
 tags:
   - budget deficit
-  - chart
-  - debt
-  - deficit
   - federal debt
-  - government
   - government debt
   - Government Spending
   - national debt
-  - u.s.
-  - united states
 ---
 <div class="powerpress_player" id="powerpress_player_220">
 </div>

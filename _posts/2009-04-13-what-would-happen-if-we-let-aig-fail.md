@@ -57,17 +57,8 @@ categories:
 tags:
   - aig
   - bailout
-  - bankers
-  - bankruptcy
-  - banks
   - credit default swap
-  - fail
-  - loans
   - subsidies
-  - subsidize
-  - subsidizing
-  - subsidy
-  - wall st
 ---
 <div class="powerpress_player" id="powerpress_player_223">
 </div>

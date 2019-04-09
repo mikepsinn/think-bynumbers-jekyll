@@ -63,16 +63,10 @@ categories:
 tags:
   - billion
   - cato
-  - ceo
   - corporate welfare
-  - corporate welfare king
-  - corporate welfare queen
   - corporations
   - lobbyists
-  - satire
   - subsidies
-  - subsidize
-  - subsidizing
   - tanf
   - tarp
   - tax breaks

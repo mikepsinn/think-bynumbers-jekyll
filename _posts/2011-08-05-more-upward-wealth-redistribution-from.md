@@ -62,20 +62,9 @@ categories:
   - Healthcare
   - Podcast
 tags:
-  - act
-  - arra
-  - doctor salary
-  - doctors
   - Government Spending
   - hitech
-  - ipad
-  - medical records
-  - slider
   - subsidies
-  - subsidize
-  - subsidy
-  - tax
-  - technology
   - wealth redistribution
 ---
 <div class="powerpress_player" id="powerpress_player_225">

@@ -10,14 +10,11 @@ It's also going to take a lot of time. In order to do apples to apples compariso
 
 Moving closer to my job will save me 2 hours per week (an equivalent of $54 in weekly earnings). I assume I'll be working there for 4 more years, so let's calculate the equivalent present value of this expense. You can do this in Google Sheets with the following formula.
 
-> PV(rate, number_of_periods, payment_amount, [future_value], [end_or_beginning])
+` PV(rate, number_of_periods, payment_amount, [future_value], [end_or_beginning]) `
 
 - rate - The interest rate.
 - number_of_periods - The number of payments to be made.
 - payment_amount - The amount per period to be paid.
 - future_value - [ OPTIONAL ] - The future value remaining after the final payment has been made
 - end_or_beginning - [ OPTIONAL - 0 by default ] - Whether payments are due at the end (0) or beginning (1) of each period.
-
-
-
 
