@@ -22,9 +22,9 @@ or in Google Sheets, you can use the formula:
 
 ` PV(rate, number_of_periods, future_value) `
 
-- rate - This is the rate that you could get by investing this money.  [10%](https://www.nerdwallet.com/blog/investing/average-stock-market-return/) is the average annual rate of return for the stock market, so let's use that.
-- number_of_periods - We're using the annual return and I'll be saving this drive for 4 years. So the number of periods is 4.
-- future_value - We'll save $11k (52 weeks * $54/week * 4 years).
+- `rate` - This is the rate that you could get by investing this money.  [10%](https://www.nerdwallet.com/blog/investing/average-stock-market-return/) is the average annual rate of return for the stock market, so let's use that.
+- `number_of_periods` - We're using the annual return and I'll be saving this drive for 4 years. So the number of periods is 4.
+- `future_value` - We'll save $11k (52 weeks * $54/week * 4 years).
 
 The result is a Present Value of $8k for the time savings from not having to drive so much.
 
@@ -56,7 +56,7 @@ So in 20 years, our home should be worth $390k.  Let's convert that back to the 
 
 ` Present Value = $390k/(1 + 0.1)^(20 years) = $58k`
 
-## Net Present Value
+### Net Present Value
 
 The Net Present Value is what helps us make our final decision.  It is the present value of the benefits minus the present value of the costs. 
 
@@ -66,3 +66,14 @@ In our case, the Net Present Value is:
 Since $18k is positive, it's time to move!  :D
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrmprxcBBETN5l1v?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+### Future Value
+
+Now let's calculate how much better off we'll be in 20 years if we sell.  We can invest this $18k in an index fund getting us 10% return a year.  In 20 years this $18k will be worth $121k.
+
+## Opportunity Cost
+
+However, let's say I have a startup business that I could be working on in the time I spend moving.  Let's calculate how much time it will take me to move.  
+
+It will probably take about 40 hours to pack everything and another 40 hours to unpack everything and move it. We often underestimate, so lets double that to 160 hours of time taken. The median hourly rate is $27/hour. That's a current time cost of $4320 bringing our total Present Value down to $14k.
+
